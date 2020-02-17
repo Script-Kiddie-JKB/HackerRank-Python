@@ -1,3 +1,5 @@
+#author @Nishant
+
 n = int(input())
 if n%2==0:
     if ((n>=2 and n<=5) or n>20):
