@@ -1,3 +1,5 @@
+#author @Nishant
+
 n = int(input())
 details = {}
 for i in range (0,n):

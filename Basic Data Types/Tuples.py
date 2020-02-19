@@ -1,3 +1,5 @@
+#author @Nishant
+
 n = int(input())
 x = input()
 x = x.split(" ")
